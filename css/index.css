@@ -1,22 +1,32 @@
-.container {
-     max-width: 900px;
-    }
-    nav {
-      padding: 20px 0;
-    }
-    nav a {
+html, body {
+     font-family: 'Roboto', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5 {
+      font-family: 'Indie Flower', cursive;
+  }
+  
+  .container-fluid {
+      background-color:white;
+      border-bottom: 2px dashed silver;    
+  }
+  
+  .logo-heading {
+      padding: 20px 0 10px;
+  }
+  
+  .nav {
+      
+          color: black;
+      
+  }
+  
+  .container {
+      max-width: 800px;
+  }
+  
+  .footer {
       color: black;
-    }
-    .jumbotron {
-      background: offwhite;
-    }
-    
-    .table-row {
-      margin-top: 20px;
-    }
-    .footer {
-      margin-top: 20px;
-     padding: 20px 0;
-     background: gray;
-      color: white;
-    }
+      background: blanchedalmond;
+      padding: 20px 0;
+  } 
