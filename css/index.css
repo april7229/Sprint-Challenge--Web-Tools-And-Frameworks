@@ -1318,6 +1318,7 @@ pre code {
 
   max-width: 33.333333%;
 }
+
 .col-5 {
 
     -webkit-box-flex: 0;
@@ -1330,17 +1331,7 @@ pre code {
   
   }
   
-  .col-5 {
-
-    -webkit-box-flex: 0;
   
-    -ms-flex: 0 0 41.666667%;
-  
-    flex: 0 0 41.666667%;
-  
-    max-width: 41.666667%;
-  
-  }
   
   .col-6 {
   
@@ -6029,11 +6020,8 @@ pre code {
         margin-left: 0.125rem;
       
       }
-      margin-left: 0.125rem;
 
-}
-
-.dropright .dropdown-toggle::after {
+  .dropright .dropdown-toggle::after {
 
   display: inline-block;
 
@@ -6963,7 +6951,6 @@ pre code {
 
   -moz-appearance: none;
 
-  appearance: none;
 
 }
 
@@ -9391,7 +9378,7 @@ pre code {
 
 .progress-bar {
 
-  display: -webkit-box;
+ display: -webkit-box;
 
   display: -ms-flexbox;
 
@@ -16554,9 +16541,6 @@ h5 {
   background-color: #22283B;
 
 }
-.modal-header .close {
-
-  padding: 1rem;
 
  
 
