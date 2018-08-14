@@ -997,6 +997,7 @@ pre code {
   margin-right: auto;
 
   margin-left: auto;
+  display: flex;
 
 }
 
