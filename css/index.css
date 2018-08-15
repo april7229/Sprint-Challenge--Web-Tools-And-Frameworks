@@ -997,7 +997,6 @@ pre code {
   margin-right: auto;
 
   margin-left: auto;
-  display: flex;
 
 }
 
@@ -10739,7 +10738,7 @@ button.close {
 
   position: relative;
 
-  display: none;
+  display: block;
 
   -webkit-box-align: center;
 
